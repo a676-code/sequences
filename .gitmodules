@@ -1,0 +1,36 @@
+[submodule "chaotic-cousin-sequence"]
+	path = chaotic-cousin-sequence
+	url = https://github.com/a676-code/chaotic-cousin-sequence.git
+[submodule "flattened-sierpinski"]
+	path = flattened-sierpinski
+	url = https://github.com/a676-code/flattened-sierpinski.git
+[submodule "fly-straight-sequence"]
+	path = fly-straight-sequence
+	url = https://github.com/a676-code/fly-straight-sequence.git
+[submodule "hofstadters-sequence"]
+	path = hofstadters-sequence
+	url = https://github.com/a676-code/hofstadters-sequence.git
+[submodule "inventory-sequence"]
+	path = inventory-sequence
+	url = https://github.com/a676-code/inventory-sequence.git
+[submodule "kolakoski-sequence"]
+	path = kolakoski-sequence
+	url = https://github.com/a676-code/kolakoski-sequence.git
+[submodule "levine-sequence"]
+	path = levine-sequence
+	url = https://github.com/a676-code/levine-sequence.git
+[submodule "prime-reversal-sequence"]
+	path = prime-reversal-sequence
+	url = https://github.com/a676-code/prime-reversal-sequence.git
+[submodule "recaman-sequence"]
+	path = recaman-sequence
+	url = https://github.com/a676-code/recaman-sequence.git
+[submodule "the-yellowstone-permutation"]
+	path = the-yellowstone-permutation
+	url = https://github.com/a676-code/the-yellowstone-permutation.git
+[submodule "van-eck-sequence"]
+	path = van-eck-sequence
+	url = https://github.com/a676-code/van-eck-sequence.git
+[submodule "wisteria-sequence"]
+	path = wisteria-sequence
+	url = https://github.com/a676-code/wisteria-sequence.git
